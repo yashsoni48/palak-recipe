@@ -1,0 +1,43 @@
+body {
+    background-color: #F6F1E9;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3.5rem;
+    font-weight: bold;
+    text-align: center; 
+    margin-left: 10%; 
+}
+
+p {
+    text-align: center; 
+    margin-left: 10%; 
+}
+
+.title-image {
+    width: 200%; 
+    max-width: 500px; 
+    margin: -100px; 
+}
+
+.best {
+    color: rgb(50, 67, 216);
+}
+
+.title {
+    padding: 10% 5%;
+}
+
+.btn {
+    margin-right: -10%; 
+}
+
+.nav-link {
+    color: rgb(50, 67, 216);
+}
+
+.navbar-brand {
+    color: rgb(50, 67, 216);
+    font-size: 2rem; 
+}
